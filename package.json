@@ -10,7 +10,7 @@
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
-    "vue-ueditor-wrap": "^2.4.4"
+    "vue-ueditor-wrap": "^2.5.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
