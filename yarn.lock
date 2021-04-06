@@ -7670,10 +7670,10 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
 
-vue-ueditor-wrap@^2.5.1:
-  version "2.5.1"
-  resolved "https://registry.npmjs.org/vue-ueditor-wrap/-/vue-ueditor-wrap-2.5.1.tgz#e9b562501764a9baf7b260fc4d05aa6bc5ff8014"
-  integrity sha512-AgJYS1oSXnjmpOzq+BQzZ5J6WxYBoi1ebWeZvZtIfSoVxZ/P1/S3u3g/362IFm7Ny9jKyvS01Ly4XIuuSo7Nxg==
+vue-ueditor-wrap@^2.5.3:
+  version "2.5.3"
+  resolved "https://registry.yarnpkg.com/vue-ueditor-wrap/-/vue-ueditor-wrap-2.5.3.tgz#4726fee83ade12111e1a196b1f6cd19d95a49ece"
+  integrity sha512-7/ohGbx1tSz0LUhKjkHcvU37S3wqSpdI4rlXE71JTTE+ss8kd7xlxmCItKlh3JwcKt3IIIcPXI0fb8ZiJUfmuw==
 
 vue@^2.6.11:
   version "2.6.12"
