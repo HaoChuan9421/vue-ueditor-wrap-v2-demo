@@ -1,14 +1,10 @@
 <template>
   <div class="about">
+    <button @click="count++">{{ count }}</button>
     <vue-ueditor-wrap
       v-model="msg"
       :config="editorConfig"
       editor-id="editor-demo-01"
-    ></vue-ueditor-wrap>
-    <vue-ueditor-wrap
-      v-model="msg"
-      :config="editorConfig"
-      editor-id="editor-demo-02"
     ></vue-ueditor-wrap>
   </div>
 </template>
@@ -21,6 +17,7 @@ export default {
   },
   data() {
     return {
+      count: 0,
       msg: "<h2>Hello World!</h2>",
       // 更多 UEditor 配置，参考 http://fex.baidu.com/ueditor/#start-config
       editorConfig: {
